@@ -1,6 +1,6 @@
 # The Biteable Code of Conduct
 
-Our Code of Conduct is designed to make it clear that we believe in tolerance, respect, openness, inclusion and hard work.
+Our Code of Conduct is designed to make it clear that we believe in tolerance, respect, openness, inclusion and hard work.  We want all Biteable members to feel valued, respected and most of all safe.
 
 ## We strive to:
 
