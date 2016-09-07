@@ -5,3 +5,4 @@ We, the undersigned, have read and agree to abide by this code of conduct.
 * David Nahodil (@dnahodil)
 * Cameron Jensen (@skwai)
 * Will Bowling (@wbowling)
+* Dominic Whittle (@dominicwhittle)
