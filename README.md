@@ -32,3 +32,7 @@ The following list expresses some of our many intentions on these topics:
 * We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behaviour.
 * Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a fellow Biteable member, please contact another member immediately. Preferably a Founder. If you feel uncomfortable speaking with them directly approach a fellow team member first and ask them to represent you.  Whether you're new or have been part of Biteable for a long time, we care about making Biteable a safe place for you and we've got your back.
 * Likewise any spamming, trolling, flaming, baiting or other attention-stealing behaviour is not welcome.
+
+## Signees
+
+[SIGNEES.md](SIGNEES.md)
