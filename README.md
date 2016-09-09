@@ -28,7 +28,11 @@ The following list expresses some of our many intentions on these topics:
 * In Slack or IRC, please avoid using overtly sexual nicknames or other nicknames that might detract from a friendly, safe and welcoming environment for all.
 * Please be kind and courteous. There's no need to be mean or rude.
 * Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a right answer.
-* Please keep unstructured critique to a minimum. If you have solid ideas you want to experiment with, create and see how they work.
+* Please keep unstructured critique to a minimum. If you have solid ideas you want to experiment with, make a fork and see how it works.
 * We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behaviour.
 * Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a fellow Biteable member, please contact another member immediately. Preferably a Founder. If you feel uncomfortable speaking with them directly approach a fellow team member first and ask them to represent you.  Whether you're new or have been part of Biteable for a long time, we care about making Biteable a safe place for you and we've got your back.
 * Likewise any spamming, trolling, flaming, baiting or other attention-stealing behaviour is not welcome.
+
+## Signees
+
+[SIGNEES.md](SIGNEES.md)
