@@ -6,3 +6,4 @@ We, the undersigned, have read and agree to abide by this code of conduct.
 * Cameron Jensen (@skwai)
 * Will Bowling (@wbowling)
 * Dominic Whittle (@dominicwhittle)
+* Thomas Bryan (@tombryan)
