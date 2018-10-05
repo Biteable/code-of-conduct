@@ -8,3 +8,4 @@ We, the undersigned, have read and agree to abide by this code of conduct.
 * Dominic Whittle (@dominicwhittle)
 * Thomas Bryan (@tombryan)
 * Niels Oeltjen (@Elbone)
+* Alexander Viney (@alviney)
