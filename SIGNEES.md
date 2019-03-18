@@ -11,3 +11,4 @@ We, the undersigned, have read and agree to abide by this code of conduct.
 * Alexander Viney (@alviney)
 * Peter Blain (@pblain)
 * Andrew Carolan (@andrewcarolan)
+* Josh Gillies (@joshgillies)
