@@ -12,3 +12,4 @@ We, the undersigned, have read and agree to abide by this code of conduct.
 * Peter Blain (@pblain)
 * Andrew Carolan (@andrewcarolan)
 * Josh Gillies (@joshgillies)
+* Wiktoria Rebacz (@wiktoriarebacz)
