@@ -20,7 +20,7 @@ The following list expresses some of our many intentions on these topics:
 * **We lead by example**: The Code of Conduct does not only apply to leaders; it applies to leaders more. Leaders do their very best to show more patience, more respect, and more civility than other members of Biteable.
 * **We value discussion, data and decisiveness**: We gather opinions, data and commitments from concerned parties before making decisions. Once a reasonable amount of research is performed and data collected, we do our best to move decisively and efficiently. If we make a mistake, we’ll go back and fix it.
 * **We give credit where it’s due**: A good leader does not seek the limelight but aims to congratulate their team for the work they do. While leaders are frequently more visible than their team, leaders within Biteable use their visibility to highlight the great work of their team members and others.
-* **We’ll help however we can**: If a member has a concern, it should be brought to the Founders. Know that we’ll do our best to help you out of any precarious of uncomfortable positions. Your happiness, productivity and peace of mind is a priority for us.
+* **We’ll help however we can**: If a member has a concern, it should be brought to the Founders. Know that we’ll do our best to help you out of any precarious of uncomfortable positions. Your happiness, productivity and peace of mind are priorities for us.
 
 ## Conduct
 
@@ -30,7 +30,7 @@ The following list expresses some of our many intentions on these topics:
 * Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a right answer.
 * Please keep unstructured critique to a minimum. If you have solid ideas you want to experiment with, make a fork and see how it works.
 * We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behaviour.
-* Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a fellow Biteable member, please contact another member immediately. Preferably a Founder. If you feel uncomfortable speaking with them directly approach a fellow team member first and ask them to represent you.  Whether you're new or have been part of Biteable for a long time, we care about making Biteable a safe place for you and we've got your back.
+* Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a fellow Biteable member, please contact another member immediately. Preferably a Founder. If you feel uncomfortable speaking with them directly, approach a fellow team member first and ask them to represent you.  Whether you're new or have been part of Biteable for a long time, we care about making Biteable a safe place for you, and we've got your back.
 * Likewise any spamming, trolling, flaming, baiting or other attention-stealing behaviour is not welcome.
 
 ## Signees
