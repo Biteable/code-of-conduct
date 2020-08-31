@@ -14,3 +14,4 @@ We, the undersigned, have read and agree to abide by this code of conduct.
 * Josh Gillies (@joshgillies)
 * Wiktoria Rebacz (@wiktoriarebacz)
 * Jon Clerck (@Jmclerck)
+* Zach Holt (@biteablez)
