@@ -15,4 +15,5 @@ We, the undersigned, have read and agree to abide by this code of conduct.
 * Wiktoria Rebacz (@wiktoriarebacz)
 * Jon Clerck (@Jmclerck)
 * Zach Holt (@biteablez)
+* Alex Dilley (@alexdilley)
 * Micah Cambre (@asuh)
