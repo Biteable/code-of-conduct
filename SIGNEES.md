@@ -18,3 +18,4 @@ We, the undersigned, have read and agree to abide by this code of conduct.
 * Alex Dilley (@alexdilley)
 * Micah Cambre (@asuh)
 * Shavonn Brown (@shavonn)
+* Lyn Phan (@lynphan)
