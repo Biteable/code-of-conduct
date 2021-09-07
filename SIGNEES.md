@@ -22,3 +22,4 @@ We, the undersigned, have read and agree to abide by this code of conduct.
 * Jeremy Bardrof (@jeremy-bardrof)
 * Hepp Maccoy (@hepp)
 * Mathieu Couette (@MathieuCouette)
+* Scott Hawkins (@echoboomer)
