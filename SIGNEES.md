@@ -23,3 +23,4 @@ We, the undersigned, have read and agree to abide by this code of conduct.
 * Hepp Maccoy (@hepp)
 * Mathieu Couette (@MathieuCouette)
 * Scott Hawkins (@echoboomer)
+* Leo Li (@leo-at-biteable)
