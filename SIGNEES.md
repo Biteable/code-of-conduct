@@ -24,3 +24,4 @@ We, the undersigned, have read and agree to abide by this code of conduct.
 * Mathieu Couette (@MathieuCouette)
 * Scott Hawkins (@echoboomer)
 * Leo Li (@leo-at-biteable)
+* Patrick Rosales (@patrickrosales)
