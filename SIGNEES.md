@@ -26,3 +26,5 @@ We, the undersigned, have read and agree to abide by this code of conduct.
 * Leo Li (@leo-at-biteable)
 * Patrick Rosales (@patrickrosales)
 * Naseem Raad (@nzraad)
+* Carl Chaffatt (@cchaffatt)
+
