@@ -27,4 +27,4 @@ We, the undersigned, have read and agree to abide by this code of conduct.
 * Patrick Rosales (@patrickrosales)
 * Naseem Raad (@nzraad)
 * Carl Chaffatt (@cchaffatt)
-
+* Alex Meza (@mezawebdev)
